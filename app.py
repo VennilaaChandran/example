@@ -1,4 +1,4 @@
 print ("HELLO, CI/CD")
-def main()
+def main():
     print("hello,CI/CD")
 main()
